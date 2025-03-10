@@ -1,0 +1,14 @@
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\bin\Debug\net8.0\Atividade 2 Robinson.exe
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\bin\Debug\net8.0\Atividade 2 Robinson.deps.json
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\bin\Debug\net8.0\Atividade 2 Robinson.runtimeconfig.json
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\bin\Debug\net8.0\Atividade 2 Robinson.dll
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\bin\Debug\net8.0\Atividade 2 Robinson.pdb
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\obj\Debug\net8.0\Atividade 2 Robinson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\obj\Debug\net8.0\Atividade 2 Robinson.AssemblyInfoInputs.cache
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\obj\Debug\net8.0\Atividade 2 Robinson.AssemblyInfo.cs
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\obj\Debug\net8.0\Atividade 2 Robinson.csproj.CoreCompileInputs.cache
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\obj\Debug\net8.0\Atividade 2 Robinson.dll
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\obj\Debug\net8.0\refint\Atividade 2 Robinson.dll
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\obj\Debug\net8.0\Atividade 2 Robinson.pdb
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\obj\Debug\net8.0\Atividade 2 Robinson.genruntimeconfig.cache
+C:\Users\fagne\source\repos\Atividade 2 Robinson\Atividade 2 Robinson\obj\Debug\net8.0\ref\Atividade 2 Robinson.dll
